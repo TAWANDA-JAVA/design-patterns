@@ -1,6 +1,6 @@
 package factories;
 
-public class LinuxOperatingSystem extends OperatingSystem{
+public class  LinuxOperatingSystem extends OperatingSystem{
 
     public LinuxOperatingSystem(String version, String architecture) {
         super(version, architecture);
