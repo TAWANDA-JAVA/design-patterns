@@ -1,4 +1,4 @@
-package com.dailycodebuffer.observer;
+package com.afrocodemy.observer;
 
 import java.util.ArrayList;
 import java.util.List;

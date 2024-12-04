@@ -1,4 +1,4 @@
-package com.dailycodebuffer.observer;
+package com.afrocodemy.observer;
 
 public class NewsChannel implements Channel {
     private String news;
